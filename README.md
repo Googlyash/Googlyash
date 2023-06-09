@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yash Gupta, a final yearstudent in Mechanical Engineering, IIT Kanpur.
+- 👋 Hi, I’m Yash Gupta, a final year student in Mechanical Engineering, IIT Kanpur.
 - 🌱 I’m currently learning DSA,FullStackWebDev.
 - 📫 How to reach me- indianyashg@gmail.com, yashgupta20@iitk.ac.in.
 <!---- 💞️ I’m looking to collaborate on ...
