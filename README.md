@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Googlyash.
+- 👋 Hi, I’m Yash Gupta, a final yearstudent in Mechanical Engineering, IIT Kanpur.
 - 🌱 I’m currently learning DSA,FullStackWebDev.
-- 📫 How to reach me- indianyashg@gmail.com
+- 📫 How to reach me- indianyashg@gmail.com, yashgupta20@iitk.ac.in.
 <!---- 💞️ I’m looking to collaborate on ...
 - 👀 I’m interested in ...
 
