@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+- 🔭 Previously worked as Analytics Scientist at Gain Credit
 - 🎓 Studying Mechanical Engineering at IIT Kanpur
 - ❤️ Loves doing competitive programming
 - 📫 How to reach me **yashgupta012020@gmail.com**
