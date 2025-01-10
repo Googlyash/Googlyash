@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+![](https://komarev.com/ghpvc/?username=Googlyash&style=flat&color=green)
 - 🔭 Previously worked as Analytics Scientist at Gain Credit
 - 🎓 Studying Mechanical Engineering at IIT Kanpur
 - ❤️ Loves doing competitive programming
