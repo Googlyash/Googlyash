@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Googlyash&style=flat&color=green)
 - 🔭 Previously worked as Analytics Scientist at Gain Credit
-- 🎓 Studying Mechanical Engineering at IIT Kanpur
+- 🎓 B.Tech. in Mechanical Engineering at IIT Kanpur (Graduated in 2024)
 - ❤️ Loves doing competitive programming
 - 📫 How to reach me **yashgupta012020@gmail.com**
 
